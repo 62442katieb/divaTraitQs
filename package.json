@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@pencilpix/vue2-clock-picker": "^0.1.6",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0",
     "d3-drag": "^1.2.3",
